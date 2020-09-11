@@ -6,11 +6,20 @@ Collisons are addressed via a LinkedList that exists at each index, rather than 
 Object Methods
 --------------
  get
+ 
  put
+ 
  remove
+ 
  clear
+ 
  get_keys
+ 
  resize_table
+ 
  table_load
+ 
  empty_buckets
+ 
  contains_key
+ 
